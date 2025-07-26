@@ -35,4 +35,16 @@ I wanted to learn a bit about PyGame, since i never / rarely used it, so i creat
 
 ## How to install and modify
 - Install python and pygame [(Click here for a tutorial video)](https://www.youtube.com/watch?v=5uOTEOJ48G8)
-- Install a code editor of your choice (i recommend [VSCode](https://code.visualstudio.com/download) for PyGame)
+- Install a code editor of your choice (i recommend [VSCode](https://code.visualstudio.com/download) for PyGame)\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+ALSO: why is the PyGame Y axis so weird? just go up instead of going into the negatives. #Make0-0TheButtomLeftCornerInsteadOfTheTopLeftCorner
