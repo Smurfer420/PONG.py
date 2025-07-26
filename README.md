@@ -15,6 +15,7 @@ I wanted to learn a bit about PyGame, since i never / rarely used it, so i creat
 - score system
 - The X button on the title bar works (idk why PyGame doesnt do that by default. most likely so that people can make save files before quitting)
 - ### CAT
+- ##### ~You can start the game without cat PNG...~
 
 ## Future Features
 - AI Mode (possibly with different difficulties)
